@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="TransformSource" max_length="40" name="x_58872_needit_transformsource" type="collection">
+        <element label="Name" max_length="100" name="name" type="string"/>
+        <element label="Test" max_length="100" name="test" type="string"/>
+    </element>
+</database>
